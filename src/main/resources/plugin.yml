@@ -1,0 +1,8 @@
+name: AmazingPet
+authors: [Pseudow, Swiiz]
+version: 1.0
+main: net.pseudow.AmazingPet
+commands:
+  amazingpet:
+    description: Command which sends you main gui to manage pets.
+    permission: amazingpet.help

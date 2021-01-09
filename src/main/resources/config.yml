@@ -1,0 +1,104 @@
+#   ░█▀▀▄░█▀▄▀█░█▀▀▄░▀▀█░░▀░░█▀▀▄░█▀▀▀░▒█▀▀█░█▀▀░▀█▀░
+#   ▒█▄▄█░█░▀░█░█▄▄█░▄▀▒░░█▀░█░▒█░█░▀▄░▒█▄▄█░█▀▀░░█░░
+#   ▒█░▒█░▀░░▒▀░▀░░▀░▀▀▀░▀▀▀░▀░░▀░▀▀▀▀░▒█░░░░▀▀▀░░▀░░
+#
+#   This plugin was made by Pseudow (github.com/Pseudow) and by Swiiz (github.com/Swiiz)
+#   If you have some errors caused by this plugin ask us some help by our discord!
+
+particles-active: yes
+pet-invisible-on-sneak: on
+receiver-active-on-join: true
+
+item-hotbar: false
+item-hotbar-slot: 4
+
+#########################################################################################
+#                                   Francais                                            #
+#########################################################################################
+item-hotbar-displayname: "&6Menu des Cosmétiques &7(&bClique droit&7)"
+
+pets:
+  CHICKEN: "&7Poulet"
+  PIG: "&dCochon"
+  SHEEP: "&fMouton"
+  COW: "&fVache"
+  ZOMBIE: "§aZombie"
+  MUSHROOM_COW: "&cChampi&f-Vache"
+  RAINBOW_SHEEP: "&dRainbowSheep"
+  FROG: "§3Crapeau"
+  GORILLA: "§8Gorille"
+
+messages:
+  spawn-pet: "&aVous avez fait apparaître un: %petname% !"
+  remove-pet: "&cPouf ! Votre animal de compagnie a disparu !"
+  dont-have-pet: "&cVous n'avez pas de pet actuellement !"
+  see-all-pets-selected: "&aVous avez activé la vision de tous les pets."
+  see-all-pets-except-mine-selected: "&aVous avez activé la vision de tous les animaux sauf le mien."
+  see-only-my-pet-selected: "&aVous avez activé la vision de seulement mon pet. "
+  dont-see-any-pets-selected: "&aVous avez désactivé la vision de tous pets."
+  param-already-saved: "§cParamètre déjà pris en compte !"
+  cosmetic-menu: "&8Menu des Cosmétiques >"
+  see-all-pets: "&aActiver la vision de tous les pets."
+  see-all-pets-except-mine: "&dVoir tous les animaux sauf le mien."
+  see-only-my-pet: "&eVoir seulement mon pet. "
+  dont-see-any-pets: "&cDésactiver la vision des pets."
+  changement-done: "&aChangement effectué !"
+  change-pet-name: "&eChanger le nom de son animal de compagnie."
+  change-animal-flank: "&eChanger le côté de son animal. &7&o(droite ou gauche)"
+  animal-changed-flank: "&6Votre animal vient de changer de côté !"
+  close-menu: "&cFermer le menu."
+  button-message: "&6Vous n'avez pas (encore) cet animal !"
+  remove-animal: "&cEjecter son animal."
+  permission-missing: "&cVous n'avez pas la permission de faire ceci !"
+  change-command-text: "§6Si vous voulez entrer la commande pour renommer votre pet "
+  change-command-text-click: "&b&lcliquez-ici"
+  change-command-text-click-and: " &6!"
+  pet-removed: "§cPouf ! Votre pet a disparu !"
+  pet-name-modification: "§6Changement du nom de votre pet en: %petname% effectué !"
+  invalid-command-need-name: "§cMerci d'entrer un nom après le premier argument: /amazingpet rename <nom> !"
+  command-doesnt-exist: "§cCette commande n'existe pas !"
+
+#########################################################################################
+#                                    English                                            #
+#########################################################################################
+# item-hotbar-displayname: "&6Cosmetic Menu &7(&bRight Click&7)"
+# 
+# pets:
+#   CHICKEN: "&7Chicken"
+#   PIG: "&dPig"
+#   SHEEP: "&fSheep"
+#   COW: "&fCow"
+#   ZOMBIE: "§aZombie"
+#   MUSHROOM_COW: "&cMushroom"
+#   RAINBOW_SHEEP: "&dRainbowSheep"
+#   FROG: "§3Frog"
+# 
+# messages:
+#   spawn-pet: "&aYou summoned a: %petname%!"
+#   remove-pet: "&cYour pet has disappeared!"
+#   dont-have-pet: "&cYou don't have any active pet!"
+#   see-all-pets-selected: "&aYou can now see every pets."
+#   see-all-pets-except-mine-selected: "&aYou can see every pets except yours."
+#   see-only-my-pet-selected: "&aYou can now see only your pet. "
+#   dont-see-any-pets-selected: "&aYou now won't see any pet."
+#   param-already-saved: "§cSetting already selected!"
+#   cosmetic-menu: "&8Cosmetics menu >"
+#   see-all-pets: "&aSee all pets."
+#   see-all-pets-except-mine: "&dSee all pets except mine."
+#   see-only-my-pet: "&eSee only my pet. "
+#   dont-see-any-pets: "&cDon't see any pets."
+#   changement-done: "&aSetting successfully modified!"
+#   change-pet-name: "&eChange pet name."
+#   change-animal-flank: "&eChange pet side. &7&o(Right or Left)"
+#   animal-changed-flank: "&6Votre animal vient de changer de côté!"
+#   close-menu: "&cClose menu."
+#   button-message: "&6You don't have this pet (yet)!"
+#   remove-animal: "&cRemove your current animal."
+#   permission-missing: "&cYou are not allowed to do that!"
+#   change-command-text: "§6If you want to rename your pet."
+#   change-command-text-click: "&b&lClick HERE"
+#   change-command-text-click-and: " &6!"
+#   pet-removed: "&cYour pet has disappeared!"
+#   pet-name-modification: "§6Your pet's name has successfully been changed to %petname%!"
+#   invalid-command-need-name: "§cYou must enter a name: /amazingpet rename <name>!"
+#   command-doesnt-exist: "§cThis command doesn't exist (sorry)!"
