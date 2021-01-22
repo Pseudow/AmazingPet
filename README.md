@@ -18,6 +18,7 @@ We developped an API to let you modify easier and faster our plugin!
 You can easily find it by [CLICKING HERE](https://github.com/Pseudow/AmazingPetAPI).
 
 # License
+```
   This project is a simple Spigot plugin which allows you to create pet and other things in a Spigot Minecraft Server.
   Copyright (C) 2020 AmazingPet
 
@@ -34,6 +35,7 @@ You can easily find it by [CLICKING HERE](https://github.com/Pseudow/AmazingPetA
   You should have received a copy of the GNU General Public License along
   with this program; if not, write to the Free Software Foundation, Inc.,
   51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+```
 
 # Credits
 Developped by: **Pseudow** and **Swiiz**.
